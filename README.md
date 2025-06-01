@@ -85,11 +85,4 @@ A higher regularization (λ) reduces overfitting but too high values can underfi
 4. **Experiment Insights**: Challenges faced and solutions applied.
 
 ## Contributors
-
-- Sreekar G
 - Santosh J 
-
-## License
-
-This project is for academic purposes and follows the university at Buffalo, State University newyork.# MACHINE-LEARNING
-PROJECT 1
